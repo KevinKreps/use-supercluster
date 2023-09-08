@@ -1,3 +1,6 @@
+# This is a fork which uses supercluster v8, below is the original ReadMe from the original repo.
+https://github.com/leighhalliday/use-supercluster.git
+
 # useSupercluster
 
 A hook for using Supercluster with React.

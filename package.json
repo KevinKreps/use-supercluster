@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
+  "version": "0.5.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -22,13 +22,13 @@
       "pre-commit": "tsdx lint"
     }
   },
-  "name": "use-supercluster",
-  "author": "Leigh Halliday",
+  "name": "use-supercluster-with-supercluster-v8",
+  "author": "Kevin Kreps",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leighhalliday/use-supercluster.git"
+    "url": "https://github.com/KevinKreps/use-supercluster.git"
   },
-  "homepage": "https://github.com/leighhalliday/use-supercluster",
+  "homepage": "https://github.com/KevinKreps/use-supercluster",
   "keywords": [
     "react",
     "supercluster",
